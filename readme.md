@@ -1,4 +1,4 @@
----
+<!--
 title: Angular Directives
 type: Lesson
 duration: "1:25"
@@ -6,7 +6,7 @@ creator:
     name: Micah Rich
     city: LA
 competencies: Front-end frameworks
----
+-->
 
 # Angular Directives
 
@@ -211,3 +211,8 @@ Now, in the next lab, you're going to practice this and hopefully, learn a few e
 - How do we add a function to a controller?
 - How do we iterate over an array of items?
 - How do we submit a form?
+
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
